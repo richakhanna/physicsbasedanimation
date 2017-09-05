@@ -1,8 +1,16 @@
 # physicsbasedanimation demo
 
-![Spring Animation Example](https://media.giphy.com/media/SkqXuXDCkV344/giphy.gif)
+![Spring Translate Animation Example](https://media.giphy.com/media/SkqXuXDCkV344/giphy.gif)
 
 ![Fling Animation Example](https://media.giphy.com/media/sHtLzSue1gVAk/giphy.gif)
+
+![Spring Translate and Rotation Animation Example](https://media.giphy.com/media/ltdgxftnjezo4/giphy.gif)
+
+![Chained Springs](https://media.giphy.com/media/10lBVTN4VJOoVO/giphy.gif)
+
+
+
+
 
 MIT License
 
