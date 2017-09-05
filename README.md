@@ -6,7 +6,7 @@
 
 ![Spring Translate and Rotation Animation Example](https://media.giphy.com/media/ltdgxftnjezo4/giphy.gif)
 
-![Chained Springs](https://media.giphy.com/media/10lBVTN4VJOoVO/giphy.gif)
+![Chained Springs](https://media.giphy.com/media/9vTIqUmz0IV9K/giphy.gif)
 
 
 
