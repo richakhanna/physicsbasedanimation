@@ -1,11 +1,10 @@
-package com.richdroid.physicsbasedanimation.animation;
+package com.richdroid.physicsbasedanimation.ui.activity;
 
 import android.os.Bundle;
 import android.support.animation.FloatPropertyCompat;
 import android.support.animation.SpringAnimation;
 import android.support.animation.SpringForce;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;

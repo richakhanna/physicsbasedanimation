@@ -2,4 +2,8 @@
     <string name="app_name">PhysicsBasedAnimation</string>
     <string name="translate_spring_animation">Translate Spring Animation</string>
     <string name="translate_fling_animation">Translate Fling Animation</string>
+
+    <string name="translate_rotate_spring_animation">Translate &amp; Rotate Spring Animation</string>
+
+    <string name="chained_spring_animation">Chained Spring Animation</string>
 </resources>

@@ -5,7 +5,7 @@
     android:id="@+id/main_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.richdroid.physicsbasedanimation.animation.TranslateFlingAnimationActivity">
+    tools:context="com.richdroid.physicsbasedanimation.ui.activity.TranslateFlingAnimationActivity">
 
     <ImageView
         android:id="@+id/iv_translate_fling"

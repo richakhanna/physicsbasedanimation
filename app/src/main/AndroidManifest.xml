@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".ui.activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,12 +17,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".animation.TranslateSpringAnimationActivity"
+            android:name=".ui.activity.TranslateSpringAnimationActivity"
             android:label="@string/translate_spring_animation" />
-
         <activity
-            android:name=".animation.TranslateFlingAnimationActivity"
+            android:name=".ui.activity.TranslateFlingAnimationActivity"
             android:label="@string/translate_fling_animation" />
+        <activity
+            android:name=".ui.activity.TranslateAndRotateSpringAnimationActivity"
+            android:label="@string/translate_rotate_spring_animation" />
+        <activity
+            android:name=".ui.activity.ChainedSpringAnimationActivity"
+            android:label="@string/chained_spring_animation" />
     </application>
 
 </manifest>

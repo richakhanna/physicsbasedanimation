@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.richdroid.physicsbasedanimation.ui.activity.ChainedSpringAnimationActivity">
+
+
+    <ImageView
+        android:id="@+id/iv_lead"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@mipmap/ic_launcher_round" />
+
+    <ImageView
+        android:id="@+id/iv_first_follower"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/iv_lead"
+        android:src="@mipmap/ic_launcher_round" />
+
+    <ImageView
+        android:id="@+id/iv_second_follower"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/iv_first_follower"
+        android:src="@mipmap/ic_launcher_round" />
+
+</RelativeLayout>
+

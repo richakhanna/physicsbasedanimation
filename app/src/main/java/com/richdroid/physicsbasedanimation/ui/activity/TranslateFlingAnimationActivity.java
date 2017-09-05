@@ -1,4 +1,4 @@
-package com.richdroid.physicsbasedanimation.animation;
+package com.richdroid.physicsbasedanimation.ui.activity;
 
 import android.os.Build;
 import android.os.Bundle;
